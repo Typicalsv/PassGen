@@ -3,7 +3,7 @@ Simple program that allows you to organize your passwords.
 
 # How does it work?
 After you pick name and expected password lenght, script runs `for` loop.
-This loop provides random number in range `0-72` after every turn, then it converts it to index of `charArr` array. Char labelled with this index is being added to `Pass` array, which at the end contains final password.
+This loop provides random number in range `0-72` after every turn, then it converts it to index of `charArr` array. Char labeled with this index is being added to `Pass` array, which at the end contains final password.
 
 # Write it down!
 Using **StreamWriter** class this script will create text file named `PassAll` on your desktop, which is being modified everytime when you create new password with `PassGen`.
