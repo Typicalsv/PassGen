@@ -14,4 +14,4 @@ do not move `PassAll.txt` from desktop.
 
 If you are skilled, you can change directory for file to save in `54 line`
 
-# Feel free to visit my [website](typical.ct8.pl)
+# Feel free to visit my [website](http://typical.ct8.pl)
