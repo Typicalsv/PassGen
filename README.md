@@ -1,4 +1,4 @@
-![PassGen]([https://github.com/Logic-all/Logos/blob/main/Comet%20logol.png](https://github.com/TypicalData/Logos/blob/main/passgen.png))
+![Comet](https://github.com/TypicalData/Logos/blob/main/passgen.png)
 # 🗝️PassGen
 Simple program that allows you to organize your passwords.
 
