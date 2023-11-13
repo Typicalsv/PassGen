@@ -9,7 +9,7 @@ This loop provides random number in range `0-72` after every turn, then it conve
 # 📝Write it down!
 Using **StreamWriter** class this script will create text file named `PassAll` on your desktop, which is being modified everytime when you create new password with `PassGen`.
 
-### ℹ️Beta info:
+# ℹ️Beta info:
 If you want your file to be continously updated with your new passwords,
 do not move `PassAll.txt` from desktop. 
 
